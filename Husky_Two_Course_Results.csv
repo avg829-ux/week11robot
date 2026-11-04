@@ -1,0 +1,6 @@
+stage,change,physics_hz,ray_draw_hz,playback_cap,corner_offset,sensor_angle_deg,course,course_name,real_seconds,simulated_seconds,speed_x,steps,targets_reached,total_targets,mission_complete
+2,Two-course front-corner sensor challenge — zigzag gauntlet,240,80,1,0.35,15.0,1,Narrow Gap,45.045,6.092,0.135,1462,0,3,False
+2,Two-course front-corner sensor challenge — zigzag gauntlet,240,10,3,0.35,15.0,1,Narrow Gap,45.023,45.704,1.015,10969,0,3,False
+2,Two-course front-corner sensor challenge — zigzag gauntlet,240,10,3,0.35,15.0,1,Narrow Gap,60.051,64.904,1.081,15577,2,3,False
+2,Two-course front-corner sensor challenge — zigzag gauntlet,240,10,3,0.35,15.0,1,Narrow Gap,60.067,65.204,1.086,15649,2,3,False
+2,Two-course front-corner sensor challenge — zigzag gauntlet,240,10,3,0.35,15.0,2,Sensor Gauntlet,90.062,99.404,1.104,23857,1,4,False
